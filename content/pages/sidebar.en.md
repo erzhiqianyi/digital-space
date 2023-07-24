@@ -5,7 +5,7 @@ title: Sidebar
 ## Impornant Links
 
 - [RSS Feed](/en/blog/atom.xml)
-- [中文版](/)
+- [日本語](/)
 
 ## About
 
@@ -15,10 +15,10 @@ title: Sidebar
 
 ## Other
 
-- [Twitter](https://twitter.com/TheOwenYoung)
-- [Github](https://github.com/theowenyoung)
+- [Twitter](https://twitter.com/erzhiqianyi)
+- [Github](https://github.com/erzhiqianyi)
 
 ## Archive
 
 - [Archive](/en/archive/)
-- [Source](https://github.com/theowenyoung/blog)
+- [Source](https://github.com/erzhiqianyi/digital-space)
