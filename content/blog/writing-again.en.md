@@ -1,12 +1,12 @@
 ---
 title: Writing again
 description: I am writing again , at least once in a while 
-language: zh
+language: en
 date: 2023-07-18
 updated: 2023-07-18
 taxonomies:
   categories:
-    - Notes
+    - Blogs
   tags:
     - Writing
 ---

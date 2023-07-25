@@ -6,7 +6,7 @@ date: 2023-07-18
 updated: 2023-07-18
 taxonomies:
   categories:
-    - Notes
+    - Blogs
   tags:
     - Writing
 ---

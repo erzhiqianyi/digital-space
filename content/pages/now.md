@@ -5,7 +5,7 @@ date: 2022-03-25
 updated: 2022-12-29
 taxonomies:
   categories:
-    - Notes
+    - In Progress
   tags:
     - Now
     - About
