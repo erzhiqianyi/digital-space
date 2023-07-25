@@ -1,7 +1,7 @@
 ---
 title: You should stop watching short video
 description: I write this blog to remind meself to stop watching short video.
-draft: true
+draft: false
 language: en
 date: 2023-07-18
 updated: 2023-07-18
